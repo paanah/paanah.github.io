@@ -8,7 +8,7 @@ image:
   path: assets/img/ligolo-post-picture.png
 ---
 
-Salam! Bu, kiber-təhlükəsizlik sahəsindəki araşdırmalarımı və texniki "write-up"larımı paylaşacağım bu bloqdakı ilk postumdur. Ümid edirəm ki, burada paylaşacaqlarım həm mənim özüm, həm də oxuyanlar üçün faydalı olacaq.
+Salam! Bu, kibertəhlükəsizlik sahəsindəki araşdırmalarımı və texniki "write-up"larımı paylaşacağım bu bloqdakı ilk postumdur. Ümid edirəm ki, burada paylaşacaqlarım həm mənim özüm, həm də oxuyanlar üçün faydalı olacaq.
 İlk mövzu olaraq, pentest laboratoriyalarında çox tez-tez qarşılaşdığımız bir ssenaridən – **Pivoting**-dən danışmaq istəyirəm.
 
 ### Pivoting Nədir?
