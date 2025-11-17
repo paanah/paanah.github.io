@@ -1,7 +1,7 @@
 ---
 title: "Pivoting | Ligolo-ng"
 date: 2025-11-17 10:30:00 +0400
-categories: [Kiber-Təhlükəsizlik, Write-up]
+categories: [Cybersecurity, Security Concepts]
 tags: [ligolo-ng, pivoting, routing, nmap, lab, ssh]
 
 image:
@@ -187,10 +187,14 @@ Səhv marşrutu əl ilə düzəltməliyik:
     sudo ip route add 192.168.98.0/24 dev ligolo
     ```
 Əmin olmaq üçün ip route əmri ilə marşrut cədvəlimizi yoxlayırıq:
-![Interface proof](assets/img/ligolo_interface.png)
-
+```bash
+┌──(root㉿Security)-[~]
+└─# ip route
+192.168.80.0/24 via 10.10.200.1 dev tun0
+192.168.98.0/24 dev ligolo scope link linkdown
+```
 > {:.prompt-info}
-**Qeyd:** Şəkildə linkdown yazısının görünməsi normaldır, çünki ligolo tuneli hələ tam aktivləşdirilməyib.
+**Qeyd:** `linkdown` yazısının görünməsi normaldır, çünki ligolo tuneli hələ tam aktivləşdirilməyib.
 
 İndi tuneli başlatmağa hazırıq.
 
