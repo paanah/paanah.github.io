@@ -3,6 +3,9 @@ title: "Pivoting | Ligolo-ng"
 date: 2025-11-17 10:30:00 +0400
 categories: [Kiber-Təhlükəsizlik, Write-up]
 tags: [ligolo-ng, pivoting, routing, nmap, lab, ssh]
+
+image:
+  path: assets/img/ligolo-post-picture.png
 ---
 
 Salam! Bu, kiber-təhlükəsizlik sahəsindəki araşdırmalarımı və texniki "write-up"larımı paylaşacağım bu bloqdakı ilk postumdur. Ümid edirəm ki, burada paylaşacaqlarım həm mənim özüm, həm də oxuyanlar üçün faydalı olacaq.
