@@ -6,6 +6,7 @@ tags: [ligolo-ng, pivoting, routing, nmap, lab, ssh]
 
 image:
   path: assets/img/ligolo-post-picture.png
+  alt: "Ligolo Pivoting Konsepti"
 ---
 
 Salam! Bu, kiber-təhlükəsizlik sahəsindəki araşdırmalarımı və texniki "write-up"larımı paylaşacağım bu bloqdakı ilk postumdur. Ümid edirəm ki, burada paylaşacaqlarım həm mənim özüm, həm də oxuyanlar üçün faydalı olacaq.
